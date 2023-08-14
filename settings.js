@@ -12,23 +12,23 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
+global.autoread = false // auto read pesan / message
+global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
 global.botname = "Alphabot-Mdོ x Alien-Alfa"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.ownername= "ᴹᴿTJ M3LOOOO  ×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/alienalfa"
+global.youtube = "https://youtube.com/c/tj beats"
 global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
+global.ownernomer = "237699446447"
+global.ownernomerr = "237699446447"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390","447405935355"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["237699446447"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Alphabot-Mdོ /n' //sticker wm
 global.author = 'Created By ZeeoneOfc & Alien-Alfa' //sticker wm
 global.sessionName = 'session'
